@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "Font Awesome 6 Free";
+    font-style: normal;
+    font-weight: 900;
+    font-display: block;
+    src: url("../webfonts/fa-solid-900.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Font Awesome 6 Brands";
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src: url("../webfonts/fa-brands-400.woff2") format("woff2");
+}
+
+.fa-solid,
+.fa-brands {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-solid {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+}
+
+.fa-brands {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+}
+
+.fa-bars::before {
+    content: "\f0c9";
+}
+
+.fa-whatsapp::before {
+    content: "\f232";
+}
+
+.fa-wifi::before {
+    content: "\f1eb";
+}
+
+.fa-plane-arrival::before {
+    content: "\f5af";
+}
+
+.fa-mug-hot::before {
+    content: "\f7b6";
+}
+
+.fa-map-location-dot::before {
+    content: "\f5a0";
+}
+
+.fa-car::before {
+    content: "\f1b9";
+}
+
+.fa-shirt::before {
+    content: "\f553";
+}
+
+.fa-user-shield::before {
+    content: "\f505";
+}
+
+.fa-shield-halved::before {
+    content: "\f3ed";
+}
+
+.fa-handshake::before {
+    content: "\f2b5";
+}
+
+.fa-tag::before {
+    content: "\f02b";
+}
+
+.fa-people-group::before {
+    content: "\e533";
+}
+
+.fa-headset::before {
+    content: "\f590";
+}
+
+.fa-calendar-check::before {
+    content: "\f274";
+}
+
+.fa-sliders::before {
+    content: "\f1de";
+}
+
+.fa-star::before {
+    content: "\f005";
+}
+
+.fa-phone::before {
+    content: "\f095";
+}
+
+.fa-envelope::before {
+    content: "\f0e0";
+}
+
+.fa-location-dot::before {
+    content: "\f3c5";
+}
+
+.fa-instagram::before {
+    content: "\f16d";
+}
+
+.fa-facebook-f::before {
+    content: "\f39e";
+}
+
+.fa-tiktok::before {
+    content: "\e07b";
+}
+
+.fa-youtube::before {
+    content: "\f167";
+}
