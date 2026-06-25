@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "+6287864725425";
+const WHATSAPP_NUMBER = "6282359041938";
 
 const buildWhatsAppUrl = (message) => {
     const text = message && message.trim()
